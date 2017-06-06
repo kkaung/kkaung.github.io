@@ -2,7 +2,9 @@
 layout: post
 title:  "My First Blog Post"
 date:   2017-06-03 04:05:21 -0700
-categories: jekyll update
+categories: jekyll
+tags: jekyll codeblock
+comments: true
 ---
 
 No seriously, this is my very first official blog post!  I'm still figuring out how things work so I'll be making updates often in the upcoming days.
